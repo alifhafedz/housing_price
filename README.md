@@ -22,6 +22,6 @@ This project applies machine learning techniques to predict housing prices based
 - RMSE
 
 ## Repository Contents
-- ML_Group_Q_HousingPrice.ipynb
+- GroupQ_HousingPrice.ipynb
 - housing_price_dataset.csv
 - preprocessed_housing_data.csv
